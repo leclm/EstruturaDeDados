@@ -1,0 +1,31 @@
+Criar a Lista
+Imprimir Lista
+Inserir no início da lista -> 3
+Inserir no início da lista -> 7
+Inserir no início da lista -> 8
+Inserir no início da lista -> 10
+Imprimir Lista
+Remover do fim
+Remover do Início
+Imprimir Lista
+Liberar Lista
+Inserir no fim da lista -> 21
+Inserir no fim da lista -> 47
+Inserir no fim da lista -> 48
+Inserir no fim da lista -> 120
+Imprimir Lista
+Remover do início
+Remover o número 48
+Imprimir Lista
+Liberar Lista
+Inserir no meio (ordenado) -> 7
+Inserir no meio (ordenado) -> 3
+Inserir no meio (ordenado) -> 10
+Inserir no meio (ordenado) -> 12
+Inserir no meio (ordenado) -> 11
+Inserir no meio (ordenado) -> 1
+Imprime Lista
+Consulta o número 11
+Consulta a posição 2
+Libera Lista
+Sair
