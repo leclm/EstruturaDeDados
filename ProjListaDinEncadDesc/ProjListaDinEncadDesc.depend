@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1362858834 source:e:\ertai\levar casa\temp\projlistadinencaddesc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncadDesc.h"
+
+1362857602 e:\ertai\levar casa\temp\projlistadinencaddesc\listadinencaddesc.h
+
+1362858275 source:e:\ertai\levar casa\temp\projlistadinencaddesc\listadinencaddesc.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncadDesc.h"
+
