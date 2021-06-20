@@ -5,3 +5,4 @@
 - Lista Dinâmica Encadeada
 - Lista Duplamente Encadeada
 - Lista Circular
+- Lista Dinâmica Encadeada com Nó Descritor

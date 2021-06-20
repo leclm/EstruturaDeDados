@@ -121,10 +121,10 @@ int insere_lista_ordenada(Lista *li, struct ed_lde edlde) {
     }
 
     no->dados = edlde;
-
-    if (lista_vazia(li)) { // insere no inicio
-        no->proximo = li->inicial;
+    no->proximo = NULL;
+    if (li->inicial == NULL) { // insere no inicio
         li->inicial = no;
+        li->qtd++;
         return 1;
     } else {
         Elem *ant, *atual = li->inicial;
@@ -139,6 +139,7 @@ int insere_lista_ordenada(Lista *li, struct ed_lde edlde) {
             no->proximo = ant->proximo;
             ant->proximo = no;
         }
+        li->qtd++;
         return 1;
     }
 }
